@@ -1,6 +1,6 @@
 /*
 Nama        : Hermanu Widyatama
-NPM         : 140810200053
+NPM         : 140810210053
 Deskripsi   : Tugas 5 Praktikum Kriptografi (Vigenere Cipher Enkripsi dan Dekripsi)
 */
 
